@@ -1,0 +1,8 @@
+Character may not exist in database
+1 1
+5 0
+6 0
+7 0
+8 0
+
+
